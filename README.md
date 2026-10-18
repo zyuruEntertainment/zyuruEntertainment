@@ -1,5 +1,15 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MyBeClean/MyBeClean/main/Assets/svg/name.svg">
+  <img src="https://raw.githubusercontent.com/zyuruEntertainment/zyuruEntertainment/main/Assets/svg/name.svg">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white">
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white">
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white">
+  <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white">
 </p>
 
 <p align="center">
@@ -41,38 +51,22 @@ i prefer knowing why something works instead of simply copying a solution. mista
 - linux and open source
 - video editing and visual effects
 
-## languages & tools
+## github stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white">
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white">
-  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white">
-  <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white">
-</p>
-
-## top languages
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MyBeClean/MyBeClean/main/Assets/svg/languages.svg" alt="Top programming languages">
+  <img src="https://raw.githubusercontent.com/zyuruEntertainment/zyuruEntertainment/main/Assets/svg/languages.svg" alt="Top programming languages">
 </p>
 
 <p align="center">
-  <sub>based on code activity across my public repositories, not a measure of skill level.</sub>
+  <sub>top languages are based on code activity across public repositories, not a measure of skill level.</sub>
 </p>
 
-## github activity
-
 <p align="center">
-  <img src="https://ghstats.dev/api/card?username=MyBeClean" alt="GitHub statistics">
+  <img src="https://ghstats.dev/api/card?username=zyuruEntertainment" alt="GitHub statistics">
 </p>
 
-## commit streak
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MyBeClean&hide_border=true&background=040408&ring=22d3ee&fire=e879f9&currStreakNum=f8fafc&sideNums=f8fafc&currStreakLabel=a5f3fc&sideLabels=a5f3fc&dates=94a3b8" alt="GitHub contribution streak">
+  <img src="https://streak-stats.demolab.com/?user=zyuruEntertainment&hide_border=true&background=040408&ring=22d3ee&fire=e879f9&currStreakNum=f8fafc&sideNums=f8fafc&currStreakLabel=a5f3fc&sideLabels=a5f3fc&dates=94a3b8" alt="GitHub contribution streak">
 </p>
 
 ---
