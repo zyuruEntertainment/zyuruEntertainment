@@ -50,6 +50,7 @@ i prefer knowing why something works instead of simply copying a solution. mista
 - space and technology
 - linux and open source
 - video editing and visual effects
+- making stories and concept
 
 ## github stats
 
