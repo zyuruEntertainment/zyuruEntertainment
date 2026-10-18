@@ -68,7 +68,7 @@ i prefer knowing why something works instead of simply copying a solution. mista
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/zyuruEntertainment/zyuruEntertainment/main/Assets/svg/activity.svg"
-    alt="GitHub contribution activity"
+    alt="GitHub Contribution Activity"
     width="100%"
   />
 </p>
