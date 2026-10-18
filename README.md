@@ -30,6 +30,8 @@ i enjoy exploring ideas, building things from scratch, and understanding the sys
 
 i'm interested in both the creative and technical sides of development, from designing gameplay and creating 3d assets to writing code and figuring out why something doesn't work as expected.
 
+i believe in turning curiosity into creation, exploring how things work beneath the surface, and building solutions from the ground up. through game development, software engineering, 3d modeling, and experimentation, i aim to transform abstract concepts into something real.
+
 ## how i think
 
 i approach problems with curiosity and a willingness to experiment.
