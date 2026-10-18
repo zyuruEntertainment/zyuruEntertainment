@@ -1,0 +1,144 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="720" height="190" viewBox="0 0 720 190">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#101820"/>
+    </linearGradient>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="grid" width="13" height="13" patternUnits="userSpaceOnUse">
+      <rect width="9" height="9" rx="2" fill="#21262d"/>
+    </pattern>
+    <clipPath id="area">
+      <rect x="26" y="53" width="668" height="100" rx="3"/>
+    </clipPath>
+    <g id="cell">
+      <rect width="9" height="9" rx="2" fill="#39d353"/>
+    </g>
+    <g id="shard">
+      <path d="M0 0 L4 1 L2 5 Z" fill="#3fb950"/>
+    </g>
+  </defs>
+
+  <rect width="720" height="190" rx="12" fill="url(#bg)"/>
+  <rect x="1" y="1" width="718" height="188" rx="11"
+        fill="none" stroke="#30363d"/>
+
+  <text x="26" y="28" fill="#e6edf3"
+        font-family="monospace" font-size="13" font-weight="bold">
+    CONTRIBUTION ACTIVITY
+  </text>
+  <circle cx="672" cy="23" r="4" fill="#3fb950">
+    <animate attributeName="opacity" values="1;.3;1"
+             dur="1.4s" repeatCount="indefinite"/>
+  </circle>
+  <text x="684" y="27" fill="#8b949e"
+        font-family="monospace" font-size="9">LIVE</text>
+
+  <g transform="translate(26 53)" opacity=".8">
+    <rect width="668" height="100" fill="url(#grid)"/>
+  </g>
+
+  <!-- contribution cells -->
+  <g clip-path="url(#area)">
+    <g id="contributions" transform="translate(26 53)">
+      <script type="application/ecmascript"><![CDATA[
+        // Placeholder: replace this generated grid with data-driven cells
+        // using a GitHub Actions workflow or a server-side generator.
+      ]]></script>
+
+      <g id="week0" transform="translate(0 0)">
+        <rect width="9" height="9" rx="2" fill="#39d353">
+          <animate attributeName="opacity" values="0;1;1;0"
+                   dur="7s" begin="0s" repeatCount="indefinite"/>
+        </rect>
+      </g>
+
+      <g id="animated-grid">
+        <g transform="translate(13 13)">
+          <rect width="9" height="9" rx="2" fill="#0e4429">
+            <animate attributeName="opacity" values="0;1;1;0"
+                     dur="7s" begin=".1s" repeatCount="indefinite"/>
+          </rect>
+        </g>
+        <g transform="translate(26 26)">
+          <rect width="9" height="9" rx="2" fill="#26a641">
+            <animate attributeName="opacity" values="0;1;1;0"
+                     dur="7s" begin=".2s" repeatCount="indefinite"/>
+          </rect>
+        </g>
+        <g transform="translate(39 39)">
+          <rect width="9" height="9" rx="2" fill="#39d353">
+            <animate attributeName="opacity" values="0;1;1;0"
+                     dur="7s" begin=".3s" repeatCount="indefinite"/>
+          </rect>
+        </g>
+        <g transform="translate(52 0)">
+          <rect width="9" height="9" rx="2" fill="#006d32">
+            <animate attributeName="opacity" values="0;1;1;0"
+                     dur="7s" begin=".4s" repeatCount="indefinite"/>
+          </rect>
+        </g>
+        <g transform="translate(65 13)">
+          <rect width="9" height="9" rx="2" fill="#39d353">
+            <animate attributeName="opacity" values="0;1;1;0"
+                     dur="7s" begin=".5s" repeatCount="indefinite"/>
+          </rect>
+        </g>
+        <g transform="translate(78 26)">
+          <rect width="9" height="9" rx="2" fill="#0e4429">
+            <animate attributeName="opacity" values="0;1;1;0"
+                     dur="7s" begin=".6s" repeatCount="indefinite"/>
+          </rect>
+        </g>
+      </g>
+    </g>
+
+    <!-- burst particles -->
+    <g fill="#39d353" filter="url(#glow)">
+      <circle cx="30" cy="57" r="2">
+        <animate attributeName="cx" values="30;9;30" dur="7s"
+                 repeatCount="indefinite"/>
+        <animate attributeName="cy" values="57;30;57" dur="7s"
+                 repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;0;1;0;0"
+                 keyTimes="0;.35;.45;.65;1" dur="7s"
+                 repeatCount="indefinite"/>
+      </circle>
+      <circle cx="30" cy="57" r="1.5">
+        <animate attributeName="cx" values="30;49;30" dur="7s"
+                 repeatCount="indefinite"/>
+        <animate attributeName="cy" values="57;77;57" dur="7s"
+                 repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;0;1;0;0"
+                 keyTimes="0;.35;.45;.65;1" dur="7s"
+                 repeatCount="indefinite"/>
+      </circle>
+      <circle cx="30" cy="57" r="1.5">
+        <animate attributeName="cx" values="30;15;30" dur="7s"
+                 repeatCount="indefinite"/>
+        <animate attributeName="cy" values="57;82;57" dur="7s"
+                 repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;0;1;0;0"
+                 keyTimes="0;.35;.45;.65;1" dur="7s"
+                 repeatCount="indefinite"/>
+      </circle>
+    </g>
+  </g>
+
+  <text x="26" y="176" fill="#8b949e"
+        font-family="monospace" font-size="10">
+    BUILD 001 // CODE NEVER SLEEPS
+  </text>
+  <text x="694" y="176" fill="#3fb950"
+        font-family="monospace" font-size="10" text-anchor="end">
+    LOOP ∞
+  </text>
+</svg>
