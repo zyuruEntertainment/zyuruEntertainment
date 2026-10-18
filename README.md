@@ -58,10 +58,6 @@ i prefer knowing why something works instead of simply copying a solution. mista
 </p>
 
 <p align="center">
-  <sub>top languages are based on code activity across public repositories, not a measure of skill level.</sub>
-</p>
-
-<p align="center">
   <img src="https://ghstats.dev/api/card?username=zyuruEntertainment" alt="GitHub statistics">
 </p>
 
