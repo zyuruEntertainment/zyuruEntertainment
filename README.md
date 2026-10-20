@@ -56,25 +56,24 @@ i prefer knowing why something works instead of simply copying a solution. mista
 
 ## github stats
 
-<p align="center">
-  <img src="https://ghstats.dev/api/card?username=zyuruEntertainment" alt="GitHub statistics">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=zyuruEntertainment&hide_border=true&background=040408&ring=22d3ee&fire=e879f9&currStreakNum=f8fafc&sideNums=f8fafc&currStreakLabel=a5f3fc&sideLabels=a5f3fc&dates=94a3b8" alt="GitHub contribution streak">
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/zyuruEntertainment/zyuruEntertainment/main/Assets/svg/languages.svg" alt="Top programming languages">
-</p>
-
+<table>
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <img src="https://ghstats.dev/api/card?username=zyuruEntertainment" alt="GitHub statistics" width="100%">
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <img src="https://streak-stats.demolab.com/?user=zyuruEntertainment&hide_border=true&background=040408&ring=22d3ee&fire=e879f9&currStreakNum=f8fafc&sideNums=f8fafc&currStreakLabel=a5f3fc&sideLabels=a5f3fc&dates=94a3b8" alt="GitHub contribution streak" width="100%">
+      <br>
+      <img src="https://raw.githubusercontent.com/zyuruEntertainment/zyuruEntertainment/main/Assets/svg/languages.svg" alt="Top programming languages" width="100%">
+    </td>
+  </tr>
+</table>
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/zyuruEntertainment/zyuruEntertainment/main/Assets/svg/activity.svg"
     alt="GitHub Contribution Activity"
     width="100%"
   />
-</p>
 
 ---
 
