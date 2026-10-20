@@ -57,15 +57,15 @@ i prefer knowing why something works instead of simply copying a solution. mista
 ## github stats
 
 <p align="center">
-  <img src="https://ghstats.dev/api/card?username=zyuruEntertainment" alt="GitHub statistics">
+  <img src="https://ghstats.dev/api/card?username=zyuruEntertainment" alt="GitHub statistics" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=zyuruEntertainment&hide_border=true&background=040408&ring=22d3ee&fire=e879f9&currStreakNum=f8fafc&sideNums=f8fafc&currStreakLabel=a5f3fc&sideLabels=a5f3fc&dates=94a3b8" alt="GitHub contribution streak">
+  <img src="https://streak-stats.demolab.com/?user=zyuruEntertainment&hide_border=true&background=040408&ring=22d3ee&fire=e879f9&currStreakNum=f8fafc&sideNums=f8fafc&currStreakLabel=a5f3fc&sideLabels=a5f3fc&dates=94a3b8" alt="GitHub contribution streak" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zyuruEntertainment/zyuruEntertainment/main/Assets/svg/languages.svg" alt="Top programming languages">
+  <img src="https://raw.githubusercontent.com/zyuruEntertainment/zyuruEntertainment/main/Assets/svg/languages.svg" alt="Top programming languages" width="100%">
 </p>
 
 <p align="center">
