@@ -3559,8 +3559,8 @@
     
       <g>
         <rect x="572" y="87" width="10" height="10"
-              rx="2" fill="#39d353" opacity="0">
-          <title>2026-10-21: 31 contributions</title>
+              rx="2" fill="#006d32" opacity="0">
+          <title>2026-10-21: 12 contributions</title>
           <animate attributeName="opacity"
             values="0;1;1;0;0"
             keyTimes="0;.12;.60;.72;1"
@@ -5474,7 +5474,7 @@
               </circle>
             
               <circle cx="577" cy="92"
-                      r="1.6" fill="#39d353" opacity="0">
+                      r="1.6" fill="#006d32" opacity="0">
                 <animate attributeName="opacity"
                   values="0;0;1;0"
                   keyTimes="0;.60;.65;1"
@@ -5493,7 +5493,7 @@
               </circle>
             
               <circle cx="577" cy="92"
-                      r="1.6" fill="#39d353" opacity="0">
+                      r="1.6" fill="#006d32" opacity="0">
                 <animate attributeName="opacity"
                   values="0;0;1;0"
                   keyTimes="0;.60;.65;1"
@@ -5512,7 +5512,7 @@
               </circle>
             
               <circle cx="577" cy="92"
-                      r="1.6" fill="#39d353" opacity="0">
+                      r="1.6" fill="#006d32" opacity="0">
                 <animate attributeName="opacity"
                   values="0;0;1;0"
                   keyTimes="0;.60;.65;1"
@@ -5531,7 +5531,7 @@
               </circle>
             
               <circle cx="577" cy="92"
-                      r="1.6" fill="#39d353" opacity="0">
+                      r="1.6" fill="#006d32" opacity="0">
                 <animate attributeName="opacity"
                   values="0;0;1;0"
                   keyTimes="0;.60;.65;1"
