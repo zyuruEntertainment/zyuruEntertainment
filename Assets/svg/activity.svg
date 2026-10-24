@@ -3583,12 +3583,24 @@
     
       <g>
         <rect x="572" y="113" width="10" height="10"
-              rx="2" fill="#0e4429" opacity="0">
-          <title>2026-10-23: 7 contributions</title>
+              rx="2" fill="#006d32" opacity="0">
+          <title>2026-10-23: 13 contributions</title>
           <animate attributeName="opacity"
             values="0;1;1;0;0"
             keyTimes="0;.12;.60;.72;1"
             dur="8s" begin="3.588s"
+            repeatCount="indefinite"/>
+        </rect>
+      </g>
+    
+      <g>
+        <rect x="572" y="126" width="10" height="10"
+              rx="2" fill="#161b22" opacity="0">
+          <title>2026-10-24: 0 contributions</title>
+          <animate attributeName="opacity"
+            values="0;1;1;0;0"
+            keyTimes="0;.12;.60;.72;1"
+            dur="8s" begin="3.600s"
             repeatCount="indefinite"/>
         </rect>
       </g>
@@ -5650,7 +5662,7 @@
               </circle>
             
               <circle cx="577" cy="118"
-                      r="1.6" fill="#0e4429" opacity="0">
+                      r="1.6" fill="#006d32" opacity="0">
                 <animate attributeName="opacity"
                   values="0;0;1;0"
                   keyTimes="0;.60;.65;1"
@@ -5669,7 +5681,7 @@
               </circle>
             
               <circle cx="577" cy="118"
-                      r="1.6" fill="#0e4429" opacity="0">
+                      r="1.6" fill="#006d32" opacity="0">
                 <animate attributeName="opacity"
                   values="0;0;1;0"
                   keyTimes="0;.60;.65;1"
@@ -5688,7 +5700,7 @@
               </circle>
             
               <circle cx="577" cy="118"
-                      r="1.6" fill="#0e4429" opacity="0">
+                      r="1.6" fill="#006d32" opacity="0">
                 <animate attributeName="opacity"
                   values="0;0;1;0"
                   keyTimes="0;.60;.65;1"
@@ -5707,7 +5719,7 @@
               </circle>
             
               <circle cx="577" cy="118"
-                      r="1.6" fill="#0e4429" opacity="0">
+                      r="1.6" fill="#006d32" opacity="0">
                 <animate attributeName="opacity"
                   values="0;0;1;0"
                   keyTimes="0;.60;.65;1"
@@ -5729,7 +5741,7 @@
 
   <text x="26" y="169" fill="#8b949e"
         font-family="monospace" font-size="10">
-    YEAR TO DATE · UPDATED 2026-10-23
+    YEAR TO DATE · UPDATED 2026-10-24
   </text>
 
   <text x="585" y="169" fill="#39d353"
