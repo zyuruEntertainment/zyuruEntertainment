@@ -84,3 +84,17 @@ i prefer knowing why something works instead of simply copying a solution. mista
 <p align="center">
   <b>keep learning. keep creating. keep experimenting.</b>
 </p>
+
+---
+
+## my website
+
+<p align="center">
+  <a href="https://zyuru.my.id">
+    <img src="https://img.shields.io/badge/visit%20my%20website-zyuru.my.id-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit my website">
+  </a>
+</p>
+
+<p align="center">
+  explore my portfolio, projects, experiments, and things i've been building.
+</p>
