@@ -5,35 +5,35 @@
 <line x1="42" y1="98" x2="858" y2="98" stroke="#1e293b"/>
 <text x="42" y="141" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="15">C++</text>
 <rect x="170" y="128" width="650" height="16" rx="8" fill="#111827"/>
-<rect x="170" y="128" width="164.99" height="16" rx="8" fill="#22d3ee"/>
-<text x="858" y="141" text-anchor="end" fill="#a5f3fc" font-family="Arial, Helvetica, sans-serif" font-size="14">25.4%</text>
+<rect x="170" y="128" width="152.79" height="16" rx="8" fill="#22d3ee"/>
+<text x="858" y="141" text-anchor="end" fill="#a5f3fc" font-family="Arial, Helvetica, sans-serif" font-size="14">23.5%</text>
 <text x="42" y="181" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="15">ShaderLab</text>
 <rect x="170" y="168" width="650" height="16" rx="8" fill="#111827"/>
-<rect x="170" y="168" width="156.83" height="16" rx="8" fill="#e879f9"/>
-<text x="858" y="181" text-anchor="end" fill="#a5f3fc" font-family="Arial, Helvetica, sans-serif" font-size="14">24.1%</text>
-<text x="42" y="221" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="15">PHP</text>
+<rect x="170" y="168" width="145.23" height="16" rx="8" fill="#e879f9"/>
+<text x="858" y="181" text-anchor="end" fill="#a5f3fc" font-family="Arial, Helvetica, sans-serif" font-size="14">22.3%</text>
+<text x="42" y="221" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="15">C#</text>
 <rect x="170" y="208" width="650" height="16" rx="8" fill="#111827"/>
-<rect x="170" y="208" width="102.63" height="16" rx="8" fill="#a5f3fc"/>
-<text x="858" y="221" text-anchor="end" fill="#a5f3fc" font-family="Arial, Helvetica, sans-serif" font-size="14">15.8%</text>
-<text x="42" y="261" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="15">C#</text>
+<rect x="170" y="208" width="121.99" height="16" rx="8" fill="#a5f3fc"/>
+<text x="858" y="221" text-anchor="end" fill="#a5f3fc" font-family="Arial, Helvetica, sans-serif" font-size="14">18.8%</text>
+<text x="42" y="261" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="15">PHP</text>
 <rect x="170" y="248" width="650" height="16" rx="8" fill="#111827"/>
-<rect x="170" y="248" width="79.84" height="16" rx="8" fill="#22d3ee"/>
-<text x="858" y="261" text-anchor="end" fill="#a5f3fc" font-family="Arial, Helvetica, sans-serif" font-size="14">12.3%</text>
+<rect x="170" y="248" width="95.04" height="16" rx="8" fill="#22d3ee"/>
+<text x="858" y="261" text-anchor="end" fill="#a5f3fc" font-family="Arial, Helvetica, sans-serif" font-size="14">14.6%</text>
 <text x="42" y="301" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="15">Blade</text>
 <rect x="170" y="288" width="650" height="16" rx="8" fill="#111827"/>
-<rect x="170" y="288" width="64.21" height="16" rx="8" fill="#e879f9"/>
-<text x="858" y="301" text-anchor="end" fill="#a5f3fc" font-family="Arial, Helvetica, sans-serif" font-size="14">9.9%</text>
+<rect x="170" y="288" width="59.46" height="16" rx="8" fill="#e879f9"/>
+<text x="858" y="301" text-anchor="end" fill="#a5f3fc" font-family="Arial, Helvetica, sans-serif" font-size="14">9.1%</text>
 <text x="42" y="341" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="15">HLSL</text>
 <rect x="170" y="328" width="650" height="16" rx="8" fill="#111827"/>
-<rect x="170" y="328" width="32.33" height="16" rx="8" fill="#a5f3fc"/>
-<text x="858" y="341" text-anchor="end" fill="#a5f3fc" font-family="Arial, Helvetica, sans-serif" font-size="14">5.0%</text>
+<rect x="170" y="328" width="29.94" height="16" rx="8" fill="#a5f3fc"/>
+<text x="858" y="341" text-anchor="end" fill="#a5f3fc" font-family="Arial, Helvetica, sans-serif" font-size="14">4.6%</text>
 <text x="42" y="381" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="15">Wolfram Language</text>
 <rect x="170" y="368" width="650" height="16" rx="8" fill="#111827"/>
-<rect x="170" y="368" width="25.06" height="16" rx="8" fill="#22d3ee"/>
-<text x="858" y="381" text-anchor="end" fill="#a5f3fc" font-family="Arial, Helvetica, sans-serif" font-size="14">3.9%</text>
+<rect x="170" y="368" width="23.21" height="16" rx="8" fill="#22d3ee"/>
+<text x="858" y="381" text-anchor="end" fill="#a5f3fc" font-family="Arial, Helvetica, sans-serif" font-size="14">3.6%</text>
 <text x="42" y="421" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="15">Python</text>
 <rect x="170" y="408" width="650" height="16" rx="8" fill="#111827"/>
-<rect x="170" y="408" width="13.21" height="16" rx="8" fill="#e879f9"/>
-<text x="858" y="421" text-anchor="end" fill="#a5f3fc" font-family="Arial, Helvetica, sans-serif" font-size="14">2.0%</text>
+<rect x="170" y="408" width="12.23" height="16" rx="8" fill="#e879f9"/>
+<text x="858" y="421" text-anchor="end" fill="#a5f3fc" font-family="Arial, Helvetica, sans-serif" font-size="14">1.9%</text>
 <text x="42" y="468" fill="#94a3b8" font-family="Arial, Helvetica, sans-serif" font-size="12">Generated by GitHub Actions • MyBeClean</text>
 </svg>
