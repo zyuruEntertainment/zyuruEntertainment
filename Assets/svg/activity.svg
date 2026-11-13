@@ -3823,12 +3823,24 @@
     
       <g>
         <rect x="611" y="100" width="10" height="10"
-              rx="2" fill="#161b22" opacity="0">
-          <title>2026-11-12: 0 contributions</title>
+              rx="2" fill="#0e4429" opacity="0">
+          <title>2026-11-12: 2 contributions</title>
           <animate attributeName="opacity"
             values="0;1;1;0;0"
             keyTimes="0;.12;.60;.72;1"
             dur="8s" begin="3.828s"
+            repeatCount="indefinite"/>
+        </rect>
+      </g>
+    
+      <g>
+        <rect x="611" y="113" width="10" height="10"
+              rx="2" fill="#0e4429" opacity="0">
+          <title>2026-11-13: 1 contributions</title>
+          <animate attributeName="opacity"
+            values="0;1;1;0;0"
+            keyTimes="0;.12;.60;.72;1"
+            dur="8s" begin="3.840s"
             repeatCount="indefinite"/>
         </rect>
       </g>
@@ -7029,11 +7041,163 @@
                   repeatCount="indefinite"/>
               </circle>
             
+              <circle cx="616" cy="105"
+                      r="1.6" fill="#0e4429" opacity="0">
+                <animate attributeName="opacity"
+                  values="0;0;1;0"
+                  keyTimes="0;.60;.65;1"
+                  dur="8s" begin="3.828s"
+                  repeatCount="indefinite"/>
+                <animate attributeName="cx"
+                  values="616;616;604;598.0"
+                  keyTimes="0;.60;.65;1"
+                  dur="8s" begin="3.828s"
+                  repeatCount="indefinite"/>
+                <animate attributeName="cy"
+                  values="105;105;95;90.0"
+                  keyTimes="0;.60;.65;1"
+                  dur="8s" begin="3.828s"
+                  repeatCount="indefinite"/>
+              </circle>
+            
+              <circle cx="616" cy="105"
+                      r="1.6" fill="#0e4429" opacity="0">
+                <animate attributeName="opacity"
+                  values="0;0;1;0"
+                  keyTimes="0;.60;.65;1"
+                  dur="8s" begin="3.828s"
+                  repeatCount="indefinite"/>
+                <animate attributeName="cx"
+                  values="616;616;629;635.5"
+                  keyTimes="0;.60;.65;1"
+                  dur="8s" begin="3.828s"
+                  repeatCount="indefinite"/>
+                <animate attributeName="cy"
+                  values="105;105;97;93.0"
+                  keyTimes="0;.60;.65;1"
+                  dur="8s" begin="3.828s"
+                  repeatCount="indefinite"/>
+              </circle>
+            
+              <circle cx="616" cy="105"
+                      r="1.6" fill="#0e4429" opacity="0">
+                <animate attributeName="opacity"
+                  values="0;0;1;0"
+                  keyTimes="0;.60;.65;1"
+                  dur="8s" begin="3.828s"
+                  repeatCount="indefinite"/>
+                <animate attributeName="cx"
+                  values="616;616;607;602.5"
+                  keyTimes="0;.60;.65;1"
+                  dur="8s" begin="3.828s"
+                  repeatCount="indefinite"/>
+                <animate attributeName="cy"
+                  values="105;105;118;124.5"
+                  keyTimes="0;.60;.65;1"
+                  dur="8s" begin="3.828s"
+                  repeatCount="indefinite"/>
+              </circle>
+            
+              <circle cx="616" cy="105"
+                      r="1.6" fill="#0e4429" opacity="0">
+                <animate attributeName="opacity"
+                  values="0;0;1;0"
+                  keyTimes="0;.60;.65;1"
+                  dur="8s" begin="3.828s"
+                  repeatCount="indefinite"/>
+                <animate attributeName="cx"
+                  values="616;616;628;634.0"
+                  keyTimes="0;.60;.65;1"
+                  dur="8s" begin="3.828s"
+                  repeatCount="indefinite"/>
+                <animate attributeName="cy"
+                  values="105;105;117;123.0"
+                  keyTimes="0;.60;.65;1"
+                  dur="8s" begin="3.828s"
+                  repeatCount="indefinite"/>
+              </circle>
+            
+              <circle cx="616" cy="118"
+                      r="1.6" fill="#0e4429" opacity="0">
+                <animate attributeName="opacity"
+                  values="0;0;1;0"
+                  keyTimes="0;.60;.65;1"
+                  dur="8s" begin="3.840s"
+                  repeatCount="indefinite"/>
+                <animate attributeName="cx"
+                  values="616;616;604;598.0"
+                  keyTimes="0;.60;.65;1"
+                  dur="8s" begin="3.840s"
+                  repeatCount="indefinite"/>
+                <animate attributeName="cy"
+                  values="118;118;108;103.0"
+                  keyTimes="0;.60;.65;1"
+                  dur="8s" begin="3.840s"
+                  repeatCount="indefinite"/>
+              </circle>
+            
+              <circle cx="616" cy="118"
+                      r="1.6" fill="#0e4429" opacity="0">
+                <animate attributeName="opacity"
+                  values="0;0;1;0"
+                  keyTimes="0;.60;.65;1"
+                  dur="8s" begin="3.840s"
+                  repeatCount="indefinite"/>
+                <animate attributeName="cx"
+                  values="616;616;629;635.5"
+                  keyTimes="0;.60;.65;1"
+                  dur="8s" begin="3.840s"
+                  repeatCount="indefinite"/>
+                <animate attributeName="cy"
+                  values="118;118;110;106.0"
+                  keyTimes="0;.60;.65;1"
+                  dur="8s" begin="3.840s"
+                  repeatCount="indefinite"/>
+              </circle>
+            
+              <circle cx="616" cy="118"
+                      r="1.6" fill="#0e4429" opacity="0">
+                <animate attributeName="opacity"
+                  values="0;0;1;0"
+                  keyTimes="0;.60;.65;1"
+                  dur="8s" begin="3.840s"
+                  repeatCount="indefinite"/>
+                <animate attributeName="cx"
+                  values="616;616;607;602.5"
+                  keyTimes="0;.60;.65;1"
+                  dur="8s" begin="3.840s"
+                  repeatCount="indefinite"/>
+                <animate attributeName="cy"
+                  values="118;118;131;137.5"
+                  keyTimes="0;.60;.65;1"
+                  dur="8s" begin="3.840s"
+                  repeatCount="indefinite"/>
+              </circle>
+            
+              <circle cx="616" cy="118"
+                      r="1.6" fill="#0e4429" opacity="0">
+                <animate attributeName="opacity"
+                  values="0;0;1;0"
+                  keyTimes="0;.60;.65;1"
+                  dur="8s" begin="3.840s"
+                  repeatCount="indefinite"/>
+                <animate attributeName="cx"
+                  values="616;616;628;634.0"
+                  keyTimes="0;.60;.65;1"
+                  dur="8s" begin="3.840s"
+                  repeatCount="indefinite"/>
+                <animate attributeName="cy"
+                  values="118;118;130;136.0"
+                  keyTimes="0;.60;.65;1"
+                  dur="8s" begin="3.840s"
+                  repeatCount="indefinite"/>
+              </circle>
+            
   </g>
 
   <text x="26" y="169" fill="#8b949e"
         font-family="monospace" font-size="10">
-    YEAR TO DATE · UPDATED 2026-11-12
+    YEAR TO DATE · UPDATED 2026-11-13
   </text>
 
   <text x="624" y="169" fill="#39d353"
