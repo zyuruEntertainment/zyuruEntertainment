@@ -3929,6 +3929,18 @@
         </rect>
       </g>
     
+      <g>
+        <rect x="624" y="126" width="10" height="10"
+              rx="2" fill="#161b22" opacity="0">
+          <title>2026-11-21: 0 contributions</title>
+          <animate attributeName="opacity"
+            values="0;1;1;0;0"
+            keyTimes="0;.12;.60;.72;1"
+            dur="8s" begin="3.936s"
+            repeatCount="indefinite"/>
+        </rect>
+      </g>
+    
   </g>
 
   <g id="particles" filter="url(#glow)">
@@ -7737,7 +7749,7 @@
 
   <text x="26" y="169" fill="#8b949e"
         font-family="monospace" font-size="10">
-    YEAR TO DATE · UPDATED 2026-11-20
+    YEAR TO DATE · UPDATED 2026-11-21
   </text>
 
   <text x="637" y="169" fill="#39d353"
