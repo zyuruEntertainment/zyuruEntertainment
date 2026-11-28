@@ -59,7 +59,8 @@ i prefer knowing why something works instead of simply copying a solution. mista
 <table>
   <tr>
     <td width="50%" align="center" valign="middle">
-      <img src="https://ghstats.dev/api/card?username=zyuruEntertainment" alt="GitHub statistics" width="100%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zyuruEntertainment&theme=github_dark" width="400" alt="Profile Summary">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zyuruEntertainment&theme=github_dark&utcOffset=7" width="400" alt="Productive Time">
     </td>
     <td width="50%" align="center" valign="middle">
       <img src="https://streak-stats.demolab.com/?user=zyuruEntertainment&hide_border=true&background=040408&ring=22d3ee&fire=e879f9&currStreakNum=f8fafc&sideNums=f8fafc&currStreakLabel=a5f3fc&sideLabels=a5f3fc&dates=94a3b8" alt="GitHub contribution streak" width="100%">
